@@ -4,6 +4,8 @@ This project focuses on tracking the progress and distribution of COVID-19 vacci
 
 The project involves collecting, cleaning, and analyzing data related to COVID-19 vaccination efforts. By aggregating data from reliable sources, we aim to provide a comprehensive view of vaccination rates by country, and region. The analysis will involve data preprocessing, visualization, and tracking key metrics over time.
 
+The project relies on publicly available data from "(https://ourworldindata.org/covid-vaccinations)" and should not be considered a primary source for official COVID-19 vaccine information. 
+
 ## Results and Findings
 
 The project will generate various visualizations and analysis results to provide insights into the COVID-19 vaccine distribution and progress. These findings will include vaccination rates by country, regional comparisons, tracking vaccination milestones, and identifying trends and patterns in vaccine administration
